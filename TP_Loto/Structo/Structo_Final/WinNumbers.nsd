@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root xmlns:nsd="https://structorizer.fisch.lu" version="3.30-10" preRepeat="until " postFor="to" preReturn="return" postForIn="in" preWhile="while " output="OUTPUT" input="INPUT" preFor="for" preExit="exit" preLeave="leave" ignoreCase="true" preThrow="throw" preForIn="foreach" stepFor="by" author="valmermoud" created="2026-06-08" changedby="valmermoud" changed="2026-06-08" origin="Structorizer 3.30-10" text="&#34;WinNumbers&#34;,&#34;Paramètre:&#34;,&#34;entrée&#34;,&#34;pointeur entier 8 bit cheminLog&#34;,&#34;Sortie&#34;,&#34;Void&#34;" comment="&#34;&#34;" color="ffffff" type="program" style="nice">
+	<children>
+		<call text="&#34;Appel fonction recherche&#34;" comment="" color="80ffff" disabled="0"></call>
+		<instruction text="&#34;affichage des numero les plus gagnant[0]à [5]&#34;" comment="" color="ffff80" rotated="0" disabled="0"></instruction>
+	</children>
+</root>
